@@ -707,34 +707,7 @@ margin-bottom: 0;
     /* padding-left: 13px; */
     color:white
 }
-.con h2 {
-    padding-left: 115px;
 }
-.con {
-    padding-top: 200px;
-    padding-left: 18px;
-}
-}
-@media (max-width:433px){
-    .con h2 {
-        padding-left: 139px;
-    }
-    .con {
-        padding-top: 200px;
-        padding-left: 9px;
-    }
-}
-@media (max-width:401px)
-{
-
-.con{
-padding-left: 9px;
-}
-}
-@media (max-width:320px){
-    .con h2 {
-        padding-left: 79px;
-    }
 }
 @media (max-width:375px){
     .con h2 {
